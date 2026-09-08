@@ -1,4 +1,4 @@
-# Here — AI Emotional Companion
+# Here - AI Emotional Companion
 
 An AI companion that detects a user's emotional state and lets them choose
 what kind of support they want (vent, advice, calm down, distract, reflect),
