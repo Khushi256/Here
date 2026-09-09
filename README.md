@@ -1,11 +1,11 @@
-# Here — AI Emotional Companion
+# Here - AI Emotional Companion
 
 An AI companion that detects a user's emotional state and lets them choose
 what kind of support they want (vent, advice, calm down, distract, reflect),
 instead of defaulting to generic chatbot responses.
 
 ## Project Structure
-- `frontend/` — React + TypeScript chat UI
+- `frontend/` — React + JavaScript chat UI
 - `backend/` — FastAPI service (chat, safety, persistence)
 - `ml/` — Emotion & intent classifiers, safety classifier, evaluation
 
@@ -13,7 +13,7 @@ instead of defaulting to generic chatbot responses.
 In development — frontend-first, backend and ML in progress.
 
 ## Tech Stack
-React, TypeScript, Tailwind, FastAPI, PyTorch, HuggingFace Transformers,
+React, JavaScript, Tailwind, FastAPI, PyTorch, HuggingFace Transformers,
 PostgreSQL, Docker.
 
 See individual `README.md` files in each folder for setup details.
