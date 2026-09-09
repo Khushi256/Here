@@ -1,0 +1,14 @@
+<svg width="220" height="240" viewBox="0 0 220 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Soft Muted Pot -->
+  <path d="M 170 190 L 175 235 C 176 238 214 238 215 235 L 220 190 Z" fill="#C5B5D5"/>
+  
+  <!-- Broad Sage Green Leaves -->
+  <path d="M 195 190 C 180 140 140 100 155 60 C 180 95 195 145 195 190 Z" fill="#507867"/>
+  <path d="M 195 190 C 205 130 240 90 230 40 C 210 85 200 135 195 190 Z" fill="#3E6253"/>
+  
+  <!-- Trailing Line Art Vine with Soft Heart -->
+  <path d="M 180 205 Q 140 215 100 210 T 30 225" stroke="#B09BC2" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Delicate Heart Accent at end of vine -->
+  <path d="M 30 225 C 24 220 18 223 18 228 C 18 232 24 236 30 240 C 36 236 42 232 42 228 C 42 223 36 220 30 225 Z" fill="#E8B8C8" opacity="0.85"/>
+</svg>

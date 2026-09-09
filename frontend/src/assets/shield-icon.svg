@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="24" fill="#DCEAE3"/>
+  <!-- Shield Icon with Checkmark -->
+  <path d="M24 14L16 17.5V23.5C16 28.5 19.4 33.1 24 34.5C28.6 33.1 32 28.5 32 23.5V17.5L24 14Z" stroke="#4B776A" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M21 24L23 26L27 22" stroke="#4B776A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

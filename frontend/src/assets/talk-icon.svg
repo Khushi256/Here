@@ -1,0 +1,9 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="24" fill="#DBE7E0"/>
+  <!-- Speech Bubble Icon -->
+  <path d="M16 22C16 18.6863 19.5817 16 24 16C28.4183 16 32 18.6863 32 22C32 25.3137 28.4183 28 24 28C22.8 28 21.6 27.7 20.5 27.2L17 28.5L17.8 25.5C16.7 24.5 16 23.3 16 22Z" stroke="#48685C" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="21" cy="22" r="1" fill="#48685C"/>
+  <circle cx="24" cy="22" r="1" fill="#48685C"/>
+  <circle cx="27" cy="22" r="1" fill="#48685C"/>
+</svg>

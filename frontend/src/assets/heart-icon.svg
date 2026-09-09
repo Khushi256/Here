@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="24" fill="#EAE2F3"/>
+  <!-- Heart Icon -->
+  <path d="M24 30.5L22.55 29.18C17.4 24.51 14 21.43 14 17.65C14 14.57 16.42 12.15 19.5 12.15C21.24 12.15 22.91 12.96 24 14.24C25.09 12.96 26.76 12.15 28.5 12.15C31.58 12.15 34 14.57 34 17.65C34 21.43 30.6 24.51 25.45 29.19L24 30.5Z" stroke="#7A6094" stroke-width="2" stroke-linejoin="round"/>
+</svg>

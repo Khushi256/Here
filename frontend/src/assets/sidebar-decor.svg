@@ -1,0 +1,58 @@
+<svg width="240" height="200" viewBox="0 0 240 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft Lavender Gradient Blob -->
+    <radialGradient id="lavenderGrad" cx="30%" cy="80%" r="70%">
+      <stop offset="0%" stop-color="#E8DEEE" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#F2EBF7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FAF6FC" stop-opacity="0"/>
+    </radialGradient>
+    
+    <!-- Warm Peach Gradient Blob -->
+    <radialGradient id="peachGrad" cx="10%" cy="100%" r="80%">
+      <stop offset="0%" stop-color="#F7E6DE" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#FBF0EA" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FAF6F0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Layered Watercolor Shapes -->
+  <path d="M -20 120 C 30 110 80 140 100 210 L -20 210 Z" fill="url(#peachGrad)"/>
+  <path d="M -20 150 C 40 130 110 165 140 210 L -20 210 Z" fill="url(#lavenderGrad)"/>
+
+  <!-- Sage Green Leaf Branch Graphic -->
+  <g id="leaf-branch">
+    <!-- Main Stem -->
+    <path d="M -5 180 C 15 145 25 105 60 70" stroke="#7A9A8C" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    
+    <!-- Leaf Pairs along stem -->
+    <!-- Leaf 1 (top left) -->
+    <path d="M 60 70 C 45 60 30 65 32 80 C 45 80 55 75 60 70 Z" fill="#6A8B7D"/>
+    <!-- Leaf 2 (top right) -->
+    <path d="M 60 70 C 58 52 42 48 38 60 C 45 68 53 69 60 70 Z" fill="#88A99B"/>
+
+    <!-- Leaf 3 -->
+    <path d="M 45 92 C 30 85 18 95 24 105 C 34 103 42 98 45 92 Z" fill="#759789"/>
+    <!-- Leaf 4 -->
+    <path d="M 45 92 C 38 78 24 82 23 93 C 30 96 38 95 45 92 Z" fill="#5F8072"/>
+
+    <!-- Leaf 5 lower -->
+    <path d="M 28 120 C 12 115 5 125 12 135 C 20 132 26 126 28 120 Z" fill="#7FA092"/>
+    <!-- Leaf 6 lower -->
+    <path d="M 28 120 C 20 108 8 114 9 122 C 16 124 23 123 28 120 Z" fill="#68897B"/>
+
+    <!-- Leaf 7 bottom -->
+    <path d="M 12 150 C -2 145 -8 155 -1 163 C 6 160 10 155 12 150 Z" fill="#88A99B"/>
+  </g>
+
+  <!-- Hand-lettered Cursive Text -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Georgia, serif">
+    <text x="70" y="145" font-size="13" font-style="italic" font-weight="500" fill="#6B7C75" letter-spacing="0.2">
+      You're not alone,
+    </text>
+    <text x="92" y="166" font-size="13" font-style="italic" font-weight="500" fill="#6B7C75" letter-spacing="0.2">
+      I'm here.
+    </text>
+    <!-- Little Heart Icon -->
+    <path d="M 152 161 C 152 158 149 156 147 158 C 145 156 142 158 142 161 C 142 164 147 167 147 167 C 147 167 152 164 152 161 Z" fill="#8FA69B"/>
+  </g>
+</svg>
